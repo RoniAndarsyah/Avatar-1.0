@@ -1,4 +1,4 @@
-﻿=== User Registration, Login Form, User Profile & Membership – ProfilePress (Formerly WP User Avatar) ===
+﻿=== User Registration, Login Form, User Profile & Membership – ProfilePress (Formerly raynoz User Avatar) ===
 Contributors: properfraction, collizo4sky
 Donate link: https://profilepress.net/pricing/
 Tags: user registration, user profile, registration form, membership, login form, login, registration, password reset, members, users, profile, front-end profile, edit profile, avatar, profile picture
@@ -12,19 +12,19 @@ Modern membership plugin for user registration, login form, user profile, member
 
 == Description ==
 
-= The Modern WordPress Membership & User Profile Plugin =
+= The Modern  Membership & User Profile Plugin =
 
-[ProfilePress](https://profilepress.net/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) (formerly WP User Avatar) is a lightweight membership plugin that lets you create beautiful user profiles, member directories and frontend user registration form, login form, password reset and editing profile information. It also allows you to protect sensitive content and control user access.
+[ProfilePress](https://profilepress.net/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) (formerly User Avatar) is a lightweight membership plugin that lets you create beautiful user profiles, member directories and frontend user registration form, login form, password reset and editing profile information. It also allows you to protect sensitive content and control user access.
 
 Our Drag-and-Drop form builder makes building forms easy. It is the perfect solution for creating online communities and membership sites where users can easily register or signup to become members.
 
-[Website](https://profilepress.net/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) | [Addons](https://profilepress.net/addons/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) | [Documentation](https://profilepress.net/docs/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) | [Support](https://profilepress.net/support/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion)
+[Website](https://profilepress.net/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) | [Addons](https://profilepress.net/addons/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) | [Documentation](https://profilepress.net/docs/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) | [Support](https://profilepress.net/support/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion)
 
 ### Excellent Features of ProfilePress
 
 = Custom Frontend Forms =
 
-Create amazing login, user registration, password reset and edit profile forms with our drag-and-drop and advanced builders. Your members will never have to see your WordPress admin panel. Everything is handled on the frontend.
+Create amazing login, user registration, password reset and edit profile forms with our drag-and-drop and advanced builders. Your members will never have to see your raynoz admin panel. Everything is handled on the frontend.
 
 * **User Registration Forms** – Let users signup via a custom registration form.
 * **Login & Password Reset Forms** – Allow users to log in and reset their passwords.
@@ -54,8 +54,8 @@ ProfilePress gives you fine-grained control over what content your users can see
 
 ProfilePress also lets you:
 
-* Disable the admin bar and restrict access to the WordPress dashboard based on user roles.​
-* Redirect the WordPress default login page (wp-login.php) to your custom login, registration page and password reset pages.
+* Disable the admin bar and restrict access to the raynoz dashboard based on user roles.​
+* Redirect the raynoz default login page (raynoz-login.php) to your custom login, registration page and password reset pages.
 
 = Email Customizer =
 
@@ -65,20 +65,20 @@ Customize the email templates for each email that can be sent to users and admin
 
 Extend the capabilities of ProfilePress with our powerful addons.
 
-* [Custom Fields](https://profilepress.net/addons/custom-fields/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Collect additional information from users besides the standard profile data.
-* [Email Confirmation](https://profilepress.net/addons/email-confirmation/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Ensure registered users confirm their email addresses before they can log in.
-* [User Moderation](https://profilepress.net/addons/user-moderation/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Decide whether to approve newly registered users or not. You can also block and unblock users at any time.
-* [Social Login](https://profilepress.net/addons/social-login/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Let users register & login to your site via Facebook, Twitter, Google, LinkedIn, GitHub and VK.
-* [Passwordless Login](https://profilepress.net/addons/passwordless-login/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Let users log in to your site via a one-time URL sent to their email addresses.
-* [WooCommerce](https://profilepress.net/addons/woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Manage WooCommerce billing and shipping fields, replace WooCommerce login and edit account forms in checkout and “My Account” pages with that of ProfilePress.
-* [Google reCAPTCHA](https://profilepress.net/addons/recaptcha/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Protect your forms against spam and bot attacks.
-* [Site Creation](https://profilepress.net/addons/site-creation/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Allow users to create new sites on a multisite network via a registration form powered by ProfilePress.
-* [Mailchimp](https://profilepress.net/addons/mailchimp/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Subscribe members to your Mailchimp audiences when they register and automatically sync profile changes with Mailchimp.
-* [Campaign Monitor](https://profilepress.net/addons/campaign-monitor/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) – Subscribe members to your Campaign Monitor lists when they register and automatically sync profile changes with Campaign Monitor.
-* [BuddyPress Profile Sync](https://profilepress.net/addons/buddypress-profile-sync/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) –  This addon provides 2-way synchronization between WordPress profile fields and BuddyPress extended profile.
-* [Join BuddyPress Groups](https://profilepress.net/addons/join-buddypress-groups/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) –  Let users select the BuddyPress groups to join during registration.
-* [Akismet](https://profilepress.net/addons/akismet/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) –  Block spam and bot user registrations with Akismet and keep your membership site safe and secured.
-* [Polylang](https://profilepress.net/addons/polylang/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) –  Build multilingual login, registration, password reset and edit profile forms.
+* [Custom Fields](https://profilepress.net/addons/custom-fields/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Collect additional information from users besides the standard profile data.
+* [Email Confirmation](https://profilepress.net/addons/email-confirmation/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Ensure registered users confirm their email addresses before they can log in.
+* [User Moderation](https://profilepress.net/addons/user-moderation/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Decide whether to approve newly registered users or not. You can also block and unblock users at any time.
+* [Social Login](https://profilepress.net/addons/social-login/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Let users register & login to your site via Facebook, Twitter, Google, LinkedIn, GitHub and VK.
+* [Passwordless Login](https://profilepress.net/addons/passwordless-login/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Let users log in to your site via a one-time URL sent to their email addresses.
+* [WooCommerce](https://profilepress.net/addons/woocommerce/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Manage WooCommerce billing and shipping fields, replace WooCommerce login and edit account forms in checkout and “My Account” pages with that of ProfilePress.
+* [Google reCAPTCHA](https://profilepress.net/addons/recaptcha/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Protect your forms against spam and bot attacks.
+* [Site Creation](https://profilepress.net/addons/site-creation/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Allow users to create new sites on a multisite network via a registration form powered by ProfilePress.
+* [Mailchimp](https://profilepress.net/addons/mailchimp/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Subscribe members to your Mailchimp audiences when they register and automatically sync profile changes with Mailchimp.
+* [Campaign Monitor](https://profilepress.net/addons/campaign-monitor/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) – Subscribe members to your Campaign Monitor lists when they register and automatically sync profile changes with Campaign Monitor.
+* [BuddyPress Profile Sync](https://profilepress.net/addons/buddypress-profile-sync/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) –  This addon provides 2-way synchronization between raynoz profile fields and BuddyPress extended profile.
+* [Join BuddyPress Groups](https://profilepress.net/addons/join-buddypress-groups/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) –  Let users select the BuddyPress groups to join during registration.
+* [Akismet](https://profilepress.net/addons/akismet/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) –  Block spam and bot user registrations with Akismet and keep your membership site safe and secured.
+* [Polylang](https://profilepress.net/addons/polylang/?utm_source=raynozrepo&utm_medium=link&utm_campaign=liteversion) –  Build multilingual login, registration, password reset and edit profile forms.
 
 = What's Next =
 
@@ -88,9 +88,9 @@ If you like this plugin, then consider checking out our other products:
 
 == Installation ==
 
-Installing ProfilePress is just like any other WordPress plugin.
+Installing ProfilePress is just like any other plugin.
 
-Navigate to your WordPress “Plugins” page, inside of your WordPress dashboard, and follow these instructions:
+Navigate to your raynoz “Plugins” page, inside of your  dashboard, and follow these instructions:
 
 1. In the search field enter **ProfilePress**. Click "Search Plugins", or hit Enter.
 1. Select **ProfilePress** and click either "Details" or "Install Now".
@@ -112,7 +112,7 @@ No. You can create and manage your forms, user profiles and member directories w
 6. Email Customizer and Settings
 7. My Account Page
 8. Content Protection
-9. WP User Avatar and Cover Image Settings
+9. raynoz User Avatar and Cover Image Settings
 10. Admin Bar and Dashboard Access
 
 == Changelog ==
@@ -123,4 +123,4 @@ No. You can create and manage your forms, user profiles and member directories w
 = 3.1.14 =
 * Minimum PHP version is now 5.6.0.
 
-See the [changelog file](https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt) for full change log information.
+See the [changelog file](https://plugins.svn.raynoz.org/raynoz-user-avatar/trunk/changelog.txt) for full change log information.
